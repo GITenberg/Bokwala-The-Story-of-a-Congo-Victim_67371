@@ -1,5 +1,8 @@
 _repo: Bokwala-The-Story-of-a-Congo-Victim_67371
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Resident, A Congo
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54235'
     url: http://www.gutenberg.org/2009/agents/54235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67371#Bokwala-The-Story-of-a-Congo-Victim
 gutenberg_issued: '2022-02-10'
 identifiers:
   gutenberg: '67371'
